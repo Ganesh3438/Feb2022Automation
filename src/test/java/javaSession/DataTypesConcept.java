@@ -44,7 +44,7 @@ public class DataTypesConcept {
 		// size: 8 bytes: 64 bits
 		// range is: -9223372036854775 to 923372036854775
 		
-		long l = 224532657;
+		long l = 2245327;
 		System.out.println("The value of long is:"+ l);
 		
 		// 5. float
