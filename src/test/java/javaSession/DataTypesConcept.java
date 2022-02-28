@@ -50,7 +50,7 @@ public class DataTypesConcept {
 		// 5. float
 		//size: 4 bytes = 32 bits
 		//range : after . (upto seven decimal digits)
-		float f1 = 12.34f; 
+		float f1 = 12.33f; 
 		System.out.println("The value of float is:"+ f1);
 		
 		// 6. double
